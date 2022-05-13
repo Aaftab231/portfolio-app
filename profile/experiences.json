@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "Programmer",
+            "subtitle": "Aligarh Muslim University",
+            "workType": "Full-time",
+            "workDescription": [
+                "Design, developing and optimize web applications in an AngularJS & Laravel web framework environment under the direction of senior programmers.",
+                "Carry out quality assurance tests to discover errors and optimize usability. Work with senior developer to manage large, complex design projects."
+            ],
+            "dateText": "05/2021 – Present"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Sai Enterprises",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked here on Inventory Management System Project for a client which has a fixed budget and fixed time (about 6 months)."
+            ],
+            "dateText": "11/2018 – 05/2019"
+        },
+        {
+            "title": "Linux Administrator",
+            "subtitle": "Om Power Solutions",
+            "workType": "Full-time",
+            "workDescription": [
+                "Main responsibility was to install and set up Linux systems and servers.",
+                "Analyzes and resolves problems associated with the operating system's servers, hardware, applications, software, monitors systems performance and ensures compliance with security standards."
+            ],
+            "dateText": "09/20XX – 01/20YY"
+        }
+    ]
+}

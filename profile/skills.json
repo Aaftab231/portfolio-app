@@ -1,0 +1,110 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/kotlin.jpeg",
+                    "title": "Kotlin"
+                },
+                {
+                    "icon": "images/skills/c.png",
+                    "title": "C"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/pngegg.png",
+                    "title": "PostGreSQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "Mongo-DB"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "Android"
+                },
+                {
+                    "icon": "images/skills/angularjs.png",
+                    "title": "AngularJs"
+                },
+                {
+                    "icon": "images/skills/laravel.png",
+                    "title": "Laravel"
+                },
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
+                },
+                {
+                    "icon": "images/skills/rest-api.png",
+                    "title": "REST-API"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/pycharm.png",
+                    "title": "Pycharm"
+                },
+                {
+                    "icon": "images/skills/phpstorm.png",
+                    "title": "PHPStorm"
+                },
+                {
+                    "icon": "images/skills/visual-studio-code.png",
+                    "title": "VSCode"
+                },
+                {
+                    "icon": "images/skills/sublime.png",
+                    "title": "Sublime"
+                },
+                {
+                    "icon": "images/skills/postman.png",
+                    "title": "Postman"
+                },
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                }
+            ]
+    }
+]}

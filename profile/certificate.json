@@ -1,0 +1,53 @@
+{
+    "certificate" : [
+        {
+            "image" : "images/certificate/Khan-Aaftab-Kotlin.png",
+            "title": "Kotlin",
+            "links": [
+                {
+                    "text": "View",
+                    "href": "https://drive.google.com/file/d/1XwMLDi1a8NI3FIAgipo962BSYVptR144/view?usp=sharing"
+                }
+            ]
+        },
+        {
+            "image" : "images/certificate/TIH2100014.jpg",
+            "title": "Data Science & Machine Learning using Python",
+            "links": [
+                {
+                    "text": "View",
+                    "href": "https://tih.iitr.ac.in/Certificate/TIH2100014.jpg"
+                }
+            ]
+        },
+        {
+            "image" : "images/certificate/Khan-Aaftab-Data-Structure.png",
+            "title": "Data Structure & Algorithm",
+            "links": [
+                {
+                    "text": "View",
+                    "href": "https://drive.google.com/file/d/1fLX7WYFu4_FIS4ibroTu1zohJFOR9F_U/view?usp=sharing"
+                }
+            ]
+        },
+        {
+            "image" : "images/certificate/Khan-AaftabAhmad.png",
+            "title": "Data Science & Machine Learning",
+            "links": [
+                {
+                    "text": "View",
+                    "href": "https://drive.google.com/file/d/1SpYM6GtZVtMmExHN4CXwUzStpK1CNyBe/view?usp=sharing"
+                }
+            ]
+        },
+        {
+            "image" : "images/certificate/mockup1.png",
+            "title": "Etc",
+            "links": [
+                {
+                    "text": "View"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Aaftab231/portfolio-app"
+                }
+            ],
+            "tags" : [
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/showcase.jpg",
+            "title": "Real Estate Project",
+            "bodyText": "- A Real Estate web app made using **Django**.\n - The main objective of this application is to help the Real Estate Company to display unlimited number of property listings on the website.\n - Deployed on **heroku** using **gunicorn**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Aaftab231/rEstate"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "BootStrap",
+                "Heroku",
+                "Gunicorn"
+            ]
+        },
+        {
+            "image" : "images/projects/flipbook.jpg",
+            "title": "Flipbook App",
+            "bodyText": "- Flipbooks are a great way to show and share such PDF publications as ebooks, catalogs, brochures, magazines, proposals, reports, newsletters, photo albums, etc.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Aaftab231/flipbook1"
+                },
+                {
+                    "text":"Live",
+                    "href": "https://aaftab231.github.io/flipbook1/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "JavaScript",
+                "CSS"
+            ]
+        },
+        {
+            "title": "Student Database Management System",
+            "bodyText": "- Student Information Management System provides a simple interface for maintenance of student information.\n - It can be used by educational institutes or colleges to maintain the records of students easily.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Aaftab231/Python-Database-Management"
+                }
+            ],
+            "tags" : [
+                "Python"
+            ]
+        },
+        {
+            "title": "Portfolio",
+            "bodyText": "- I made my first project in HTML, CSS & JavaScript.\n - My personal Portfolio which displays all **my work experience**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Aaftab231/portfolio"
+                },
+                {
+                    "text":"Live",
+                    "href": "https://aaftab231.github.io/portfolio/"
+                }
+            ],
+            "tags" : [
+                "BootStrap",
+                "HTML",
+                "CSS",
+                "Python"
+            ]
+        },
+        {
+            "title": "Simple Python Programs",
+            "bodyText": "- Basic Programs.\n - Basic concepts of Python program like loops, functions, native datatypes and so on.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Aaftab231/Python_Programs"
+                }
+            ],
+            "tags" : [
+                "Python"
+            ]
+        },
+        {
+            "title": "e-commerce",
+            "bodyText": "- Ecommerce stands for electronic commerce and refers to a digital platform and a business model where you can buy or sell products online.\n - Ecommerce operates in four market segments, including business-to-business, business-to-consumer, consumer-to-consumer, and consumer-to-business.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Aaftab231/e-commerce"
+                }
+            ],
+            "tags" : [
+                "Django",
+                "BootStrap",
+                "HTML",
+                "CSS",
+                "PostgreSQL"
+            ]
+        }
+    ]
+}

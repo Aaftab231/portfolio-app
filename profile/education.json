@@ -1,0 +1,40 @@
+{
+    "education":[
+        {
+            "title": "June 2019 - June 2021",
+            "cardTitle": "Master of Computer Application (M.C.A)",
+            "cardSubtitle":"Mansarovar Global University, Sehore, Madhya Pradesh, India.",
+            "cardDetailedText": "SGPA - 7.3",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Jun 2014 - Jun 2017",
+            "cardTitle": "Bachelor of Computer Application (B.C.A.)",
+            "cardSubtitle":"Dr. Bhimrao Ambedkar University, Agra, Uttar Pradesh, India.",
+            "cardDetailedText": "Marks - 65%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },        
+        {
+            "title": "June 2014",
+            "cardTitle": "Higher Secondary Certificate (HSC)",
+            "cardSubtitle":"Maharashtra Board, Kalyan, Thane, Maharashtra, India.",
+            "cardDetailedText": "Marks - 49%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "June 2011",
+            "cardTitle": "Secondary School Certificate (SSC)",
+            "cardSubtitle":"Maharashtra Board, Kalyan, Thane, Maharashtra, India.",
+            "cardDetailedText": "Marks - 63%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+    ]
+}

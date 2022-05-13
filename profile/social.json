@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Aaftab231"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:aaftab231@gmail.com"
+        }
+    ]
+}

@@ -2,7 +2,6 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Aaftab231.github.io/portfolio-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -26,6 +25,7 @@
     "vertical-timeline-component-for-react": "^1.0.7",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "https://aaftab231.github.io/portfolio-app/",
   "browserslist": {
     "production": [
       ">0.2%",
